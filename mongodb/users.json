@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "5fb26833b07e5a06646e702c"
+  },
+  "username": "admin",
+  "email": "admin@admin.com",
+  "password": "$2a$10$6Ij.m1QwBsuozPqNZYyLzu7FIa80lTgIeA8osfoN7yyML4IAURcSC",
+  "rank": "admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb2689ab07e5a06646e702d"
+  },
+  "username": "DELETED_USER",
+  "email": "deleted@deleted.com",
+  "password": "$2a$10$pta9r35wJVsSYQFRtobla.CWJEChdy7xhM9lhnJU5JXE4c9Hy8uV2",
+  "rank": "user",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb7c3f581d20d04e8644b66"
+  },
+  "username": "Teszt Elek",
+  "email": "teszt@elek.hu",
+  "password": "$2a$10$Ox8eDON0pLZR/MaBopUYfuAYQPbc/TpoJGZmPKKTXFSynxxBl/ngG",
+  "rank": "user",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb7c5c281d20d04e8644b6d"
+  },
+  "username": "Banános Joe",
+  "email": "banana@joe.com",
+  "password": "$2a$10$7Sd4sQf2VnuNcV2ipD13x.Glmaip9geKeJJb/4tzLibFa4qWW84rm",
+  "rank": "user",
+  "__v": 0
+}]

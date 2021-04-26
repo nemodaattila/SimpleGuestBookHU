@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "5fb7c3fd81d20d04e8644b67"
+  },
+  "owner": {
+    "$oid": "5fb7c3f581d20d04e8644b66"
+  },
+  "date": {
+    "$date": "2020-11-20T13:26:21.063Z"
+  },
+  "content": "Király az oldal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb7c42d81d20d04e8644b68"
+  },
+  "owner": {
+    "$oid": "5fb7c3f581d20d04e8644b66"
+  },
+  "date": {
+    "$date": "2020-11-20T13:27:09.229Z"
+  },
+  "content": "A bejegyzést az adminisztrátor kimoderálta mert: A bejegyzés érzékeny adatokat tartalmaz",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb7c57981d20d04e8644b6b"
+  },
+  "owner": {
+    "$oid": "5fb2689ab07e5a06646e702d"
+  },
+  "date": {
+    "$date": "2020-11-20T13:32:41.182Z"
+  },
+  "content": "Nem olyan nagy szám ez az oldal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb7c58481d20d04e8644b6c"
+  },
+  "owner": {
+    "$oid": "5fb2689ab07e5a06646e702d"
+  },
+  "date": {
+    "$date": "2020-11-20T13:32:52.614Z"
+  },
+  "content": "Láttam már szebbet is",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb7c5ce81d20d04e8644b6e"
+  },
+  "owner": {
+    "$oid": "5fb7c5c281d20d04e8644b6d"
+  },
+  "date": {
+    "$date": "2020-11-20T13:34:06.613Z"
+  },
+  "content": "Ez az oldal egy sz*r.  A nagyanyám szebbet hímez.",
+  "__v": 0
+}]
